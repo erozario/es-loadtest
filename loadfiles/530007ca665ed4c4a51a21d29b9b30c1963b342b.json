@@ -1,0 +1,141 @@
+{
+  "_id":"530007ca665ed4c4a51a21d29b9b30c1963b342b",
+  "@timestamp":"2015-05-20T14:46:52.269Z",
+  "ip":"134.161.64.242",
+  "extension":"css",
+  "response":"200",
+  "geo":{
+    "coordinates":{
+      "lat":62.648582,
+      "lon":-160.1899
+    },
+    "src":"US",
+    "dest":"CS",
+    "srcdest":"US:CS"
+  },
+  "@tags":[
+    "warning",
+    "info"
+  ],
+  "utc_time":"2015-05-20T14:46:52.269Z",
+  "referer":"http://www.slate.com/error/andr-kuipers",
+  "agent":"Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1",
+  "clientip":"134.161.64.242",
+  "bytes":4116,
+  "host":"cdn.theacademyofperformingartsandscience.org",
+  "request":"/styles/ad-blocker.css",
+  "url":"https://cdn.theacademyofperformingartsandscience.org/styles/ad-blocker.css",
+  "@message":"134.161.64.242 - - [2015-05-20T14:46:52.269Z] \"GET /styles/ad-blocker.css HTTP/1.1\" 200 4116 \"-\" \"Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1\"",
+  "spaces":"this   is   a   thing    with lots of     spaces       wwwwoooooo",
+  "xss":"<script>console.log(\"xss\")<\/script>",
+  "headings":[
+    "<h3>albert-sacco<\/h5>",
+    "http://www.slate.com/success/carlos-i-noriega"
+  ],
+  "links":[
+    "maksim-surayev@twitter.com",
+    "http://twitter.com/login/liu-wang",
+    "www.www.slate.com"
+  ],
+  "relatedContent":[
+    {
+      "url":"http://www.laweekly.com/music/grizzly-bear-and-the-los-angeles-philharmonic-at-walt-disney-concert-hall-march-1-2411954",
+      "og:type":"article",
+      "og:title":"Grizzly Bear and the Los Angeles Philharmonic at Walt Disney Concert Hall, March 1",
+      "og:description":"Grizzly Bear and the Los Angeles Philharmonic Walt Disney Concert Hall Saturday, March 1 photos by Timothy Norris You knew Saturday night was turning ma...",
+      "og:url":"http://www.laweekly.com/music/grizzly-bear-and-the-los-angeles-philharmonic-at-walt-disney-concert-hall-march-1-2411954",
+      "article:published_time":"2008-03-03T15:45:41-08:00",
+      "article:modified_time":"2014-11-27T10:00:32-08:00",
+      "article:section":"Music",
+      "og:image":"http://IMAGES1.laweekly.com/imager/grizzly-bear-and-the-los-angeles-philharmo/u/original/2474805/grizzlybeartn034.jpg",
+      "og:image:height":"723",
+      "og:image:width":"480",
+      "og:site_name":"LA Weekly",
+      "twitter:title":"Grizzly Bear and the Los Angeles Philharmonic at Walt Disney Concert Hall, March 1",
+      "twitter:description":"Grizzly Bear and the Los Angeles Philharmonic Walt Disney Concert Hall Saturday, March 1 photos by Timothy Norris You knew Saturday night was turning ma...",
+      "twitter:card":"summary",
+      "twitter:image":"http://IMAGES1.laweekly.com/imager/grizzly-bear-and-the-los-angeles-philharmo/u/original/2474805/grizzlybeartn034.jpg",
+      "twitter:site":"@laweekly"
+    },
+    {
+      "url":"http://www.laweekly.com/music/cold-desolate-places-phil-elverum-aka-the-microphones-aka-mt-eerie-interviewed-part-1-of-4-2410936",
+      "og:type":"article",
+      "og:title":"&ldquo;Cold Desolate Places&rdquo;: Phil Elverum (aka The Microphones aka Mt. Eerie) Interviewed: Part 1 of 4",
+      "og:description":"Phil Elverum: &quot;It&#039;s so weird here right now. It&#039;s snowing but the sky is blue and it&#039;s not really that cold. I don&#039;t know where the flakes are coming fr...",
+      "og:url":"http://www.laweekly.com/music/cold-desolate-places-phil-elverum-aka-the-microphones-aka-mt-eerie-interviewed-part-1-of-4-2410936",
+      "article:published_time":"2008-03-06T11:00:00-08:00",
+      "article:modified_time":"2014-11-27T06:47:46-08:00",
+      "article:section":"Music",
+      "article:tag":"Donald Judd",
+      "og:image":"http://IMAGES1.laweekly.com/imager/andldquocold-desolate-placesandrdquo-phil-e/u/original/2473683/080306_teenagekicks_elverumlake.jpg",
+      "og:image:height":"468",
+      "og:image:width":"535",
+      "og:site_name":"LA Weekly",
+      "twitter:title":"&ldquo;Cold Desolate Places&rdquo;: Phil Elverum (aka The Microphones aka Mt. Eerie) Interviewed: Part 1 of 4",
+      "twitter:description":"Phil Elverum: &quot;It&#039;s so weird here right now. It&#039;s snowing but the sky is blue and it&#039;s not really that cold. I don&#039;t know where the flakes are coming fr...",
+      "twitter:card":"summary",
+      "twitter:image":"http://IMAGES1.laweekly.com/imager/andldquocold-desolate-placesandrdquo-phil-e/u/original/2473683/080306_teenagekicks_elverumlake.jpg",
+      "twitter:site":"@laweekly"
+    },
+    {
+      "url":"http://www.laweekly.com/music/crystal-antlers-at-high-voltage-party-safari-sams-1-21-08-2410738",
+      "og:type":"article",
+      "og:title":"Crystal Antlers at High Voltage Party, Safari Sam&#039;s, 1/21/08",
+      "og:description":"Crystal Antlers Safari Sam&#039;s, Jan. 21, 2008 The sparkling reputation of Long Beach&rsquo;s Crystal Antlers drew me out to the High Voltage Magazine part...",
+      "og:url":"http://www.laweekly.com/music/crystal-antlers-at-high-voltage-party-safari-sams-1-21-08-2410738",
+      "article:published_time":"2008-01-22T09:07:07-08:00",
+      "article:modified_time":"2014-11-27T06:47:35-08:00",
+      "article:section":"Music",
+      "article:tag":"Jonny Bell",
+      "og:image":"http://images1.laweekly.com/imager/crystal-antlers-at-high-voltage-party-saf/u/original/2473410/img_2120s.jpg",
+      "og:image:height":"359",
+      "og:image:width":"480",
+      "og:site_name":"LA Weekly",
+      "twitter:title":"Crystal Antlers at High Voltage Party, Safari Sam&#039;s, 1/21/08",
+      "twitter:description":"Crystal Antlers Safari Sam&#039;s, Jan. 21, 2008 The sparkling reputation of Long Beach&rsquo;s Crystal Antlers drew me out to the High Voltage Magazine part...",
+      "twitter:card":"summary",
+      "twitter:image":"http://images1.laweekly.com/imager/crystal-antlers-at-high-voltage-party-saf/u/original/2473410/img_2120s.jpg",
+      "twitter:site":"@laweekly"
+    },
+    {
+      "url":"http://www.laweekly.com/music/black-rock-city-hit-parade-2409397",
+      "og:type":"article",
+      "og:title":"Black Rock City Hit Parade",
+      "og:description":"By Randall Roberts Top Songs (that aren&rsquo;t trance or prog house) heard last night kicking out of any of the hundreds of rolling sound systems (or s...",
+      "og:url":"http://www.laweekly.com/music/black-rock-city-hit-parade-2409397",
+      "article:published_time":"2007-08-31T13:41:39-07:00",
+      "article:modified_time":"2014-11-27T09:41:10-08:00",
+      "article:section":"Music",
+      "og:site_name":"LA Weekly",
+      "twitter:title":"Black Rock City Hit Parade",
+      "twitter:description":"By Randall Roberts Top Songs (that aren&rsquo;t trance or prog house) heard last night kicking out of any of the hundreds of rolling sound systems (or s...",
+      "twitter:card":"summary",
+      "twitter:site":"@laweekly"
+    },
+    {
+      "url":"http://www.laweekly.com/music/calvin-harris-henry-fonda-4-23-2403568",
+      "og:type":"article",
+      "og:title":"Calvin Harris, Henry Fonda, 4/23",
+      "og:description":"Photos from the Calvin Harris show, Wednesday night, at the Henry Fonda Theater by Timothy Norris More after the jump. All photos by Timothy Norris...",
+      "og:url":"http://www.laweekly.com/music/calvin-harris-henry-fonda-4-23-2403568",
+      "article:published_time":"2008-04-24T08:45:07-07:00",
+      "article:modified_time":"2014-11-27T08:57:00-08:00",
+      "article:section":"Music",
+      "article:tag":"Timothy Norris",
+      "og:image":"http://IMAGES1.laweekly.com/imager/calvin-harris-henry-fonda-4-23/u/original/2465849/calvinharristn013.jpg",
+      "og:image:height":"319",
+      "og:image:width":"480",
+      "og:site_name":"LA Weekly",
+      "twitter:title":"Calvin Harris, Henry Fonda, 4/23",
+      "twitter:description":"Photos from the Calvin Harris show, Wednesday night, at the Henry Fonda Theater by Timothy Norris More after the jump. All photos by Timothy Norris...",
+      "twitter:card":"summary",
+      "twitter:image":"http://IMAGES1.laweekly.com/imager/calvin-harris-henry-fonda-4-23/u/original/2465849/calvinharristn013.jpg",
+      "twitter:site":"@laweekly"
+    }
+  ],
+  "machine":{
+    "os":"win 8",
+    "ram":4294967296
+  },
+  "@version":"1"
+}
